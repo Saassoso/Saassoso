@@ -28,9 +28,9 @@ Currently working through a hands-on plan to build real-world projects that show
 
 ## 📫 How to reach me
 
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/saad-charif)  
-- GitHub: [github.com/yourusername](https://github.com/Saassoso)  
+- Email: charifsaad38@gmail.com  
+- LinkedIn: Saad_Charif(https://linkedin.com/in/saad-charif)  
+- GitHub: Saassoso(https://github.com/Saassoso)  
 
 ---
 
