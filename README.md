@@ -8,12 +8,12 @@ Currently working through a hands-on plan to build real-world projects that show
 ## 🔐 Skills & Interests
 
 - Security Information and Event Management (SIEM) — Wazuh, ELK Stack  
-- Network Security & Monitoring — Suricata, Zeek, Firewall Configuration  
+- Network Security & Monitoring — Suricata, Zeek
 - Threat Hunting & Incident Response  
 - Penetration Testing & Vulnerability Management — Kali Linux, OpenVAS  
 - Automation & Reporting — Python scripting for security KPIs and playbooks  
 - System Hardening & Compliance — CIS benchmarks, audit readiness  
-- Cloud & Infrastructure Security basics  
+- Cloud & Infrastructure Security basics
 
 ---
 
